@@ -1,0 +1,26 @@
+body{
+    background: darkslateblue;
+}
+
+.imgBox{
+    background-image: url('image.png');
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+
+.whiteBox{
+    display: inline-block;
+    height: 210px;
+    width: 210px;
+    margin: 10px;
+    background-color: white;
+}
+
+.hold{
+    border: solid red 4px;
+}
+
+.hide{
+    display: none;
+}
